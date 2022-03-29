@@ -58,8 +58,6 @@ class Cycling extends Workout {
   }
 }
 
-//////////////////////////////////
-//APPLICATION ARCHITECTURE
 class App {
   #map;
   #zoomLevel = 13;
